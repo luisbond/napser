@@ -1,0 +1,75 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    }
+    ul {
+    padding: 0px!important;
+    }
+    .menu-principal {
+    width: 100%;
+    background-color: #808080;
+    height: 60px;
+    }
+    main {
+    margin: 0 auto;
+    width: 800px;
+    position: relative;
+    }
+    .logo {
+    padding: 18px;
+    width: 60%;
+    float: left;
+    }
+    .redes-sociais ul li{
+    color: darkslategray;
+    margin-left: 15px;
+    display: inline-block;
+    float: left;
+    }
+    .redes-sociais {
+    width: 30%;
+    float: right;
+    }
+    .header-2 {
+    background-color: beige;
+    width: 800px;
+    margin: 0 auto;
+    padding: 15px;
+    }
+    .menu-urls{
+    height: 60px;
+    border-bottom: 3px solid black;
+    }
+    .menu ul li{
+    display: inline-block;
+    margin-left: 20px;
+    }
+    .menu ul li a{
+    color: gray;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;    
+    }
+    .menu {
+    width: 70%;
+    float: left;
+    }
+    .busca {
+    text-align: center;
+    width: 30%;
+    float: right;
+    margin-top: 0px;
+    }
+    .busca input {
+    border: 1px solid black;
+    height: 30px;
+    padding: 12px;
+    width: 190px;
+    margin-top: 5px;
+    }
+    .col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+    }
